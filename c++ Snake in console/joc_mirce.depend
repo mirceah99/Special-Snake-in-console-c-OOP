@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1579684200 source:d:\jocul meu\joc_mirce\main.cpp
+	<iostream>
+	"arena.h"
+	<windows.h>
+
+1579683829 d:\jocul meu\joc_mirce\arena.h
+	<iostream>
+	"fruct.h"
+	"sarpe.h"
+	<string>
+
+1579638079 d:\jocul meu\joc_mirce\fruct.h
+
+1579684749 d:\jocul meu\joc_mirce\sarpe.h
+	"buc.h"
+
+1579681310 d:\jocul meu\joc_mirce\buc.h
+
